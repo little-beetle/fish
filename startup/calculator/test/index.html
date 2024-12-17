@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish Tank Volume Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Fish Tank Volume Calculator</h1>
+
+    <p>When buying a new fish tank or considering whether or not you can add more fish, it's important to know how much water your tank can hold.</p>
+    <p>Use this calculator to determine the water volume of your aquarium based on its dimensions.</p>
+
+    <div id="calculator">
+        <h2>Select Tank Shape & Measurement</h2>
+
+        <!-- Tank Shape Selection -->
+        <label for="tankShape">Select Tank Shape:</label>
+        <select id="tankShape" onchange="updateForm()">
+            <option value="rectangular">Square / Rectangular Tank</option>
+            <option value="cube">Cube Tank</option>
+            <option value="round">Round Tank (Cylindrical)</option>
+            <option value="oval">Oval Tank</option>
+        </select>
+
+        <!-- Form for Rectangular Tank -->
+        <div id="rectangularForm" class="tank-form">
+            <h3>Square / Rectangular Tank</h3>
+            <label for="width">Width (cm):</label>
+            <input type="number" id="width" placeholder="Enter width in cm">
+            <label for="length">Length (cm):</label>
+            <input type="number" id="length" placeholder="Enter length in cm">
+            <label for="height">Height (cm):</label>
+            <input type="number" id="height" placeholder="Enter height in cm">
+        </div>
+
+        <!-- Form for Cube Tank -->
+        <div id="cubeForm" class="tank-form" style="display:none;">
+            <h3>Cube Tank</h3>
+            <label for="cubeWidth">Width (cm):</label>
+            <input type="number" id="cubeWidth" placeholder="Enter width in cm">
+            <label for="cubeHeight">Height (cm):</label>
+            <input type="number" id="cubeHeight" placeholder="Enter height in cm">
+        </div>
+
+        <!-- Form for Round Tank -->
+        <div id="roundForm" class="tank-form" style="display:none;">
+            <h3>Round Tank (Cylindrical)</h3>
+            <label for="diameter">Diameter (cm):</label>
+            <input type="number" id="diameter" placeholder="Enter diameter in cm">
+            <label for="roundHeight">Height (cm):</label>
+            <input type="number" id="roundHeight" placeholder="Enter height in cm">
+        </div>
+
+        <!-- Form for Oval Tank -->
+        <div id="ovalForm" class="tank-form" style="display:none;">
+            <h3>Oval Tank</h3>
+            <label for="ovalLength">Length (cm):</label>
+            <input type="number" id="ovalLength" placeholder="Enter length in cm">
+            <label for="ovalWidth">Width (cm):</label>
+            <input type="number" id="ovalWidth" placeholder="Enter width in cm">
+            <label for="ovalHeight">Height (cm):</label>
+            <input type="number" id="ovalHeight" placeholder="Enter height in cm">
+        </div>
+
+        <button onclick="calculateVolume()">Calculate</button>
+
+        <h4>Results</h4>
+        <p>UK Gallons: <span id="ukGallons">0</span></p>
+        <p>US Gallons: <span id="usGallons">0</span></p>
+        <p>Litres: <span id="litres">0.01L</span></p>
+    </div>
+
+    <footer>
+        <p>Disclaimer: The above calculator is a tool to estimate the capacity of your fish tank. Always follow the manufacturer’s instructions and consider factors such as aquarium contents and water level.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

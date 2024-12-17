@@ -1,0 +1,908 @@
+
+update_fish_data()
+Updated Emerald catfish
+Updated Cascarudo
+Updated Blacktop corydoras
+Updated Adolfo's catfish/corydoras
+Updated Bronze corydoras, Emerald green cory
+Updated Agassiz's corydoras
+Updated Spotted corydoras, longnose corydoras
+Page not found for CarachaFairy Cory
+Updated Pink corydorasAxelrod's Cory
+Updated Masked corydoras,bandit corydoras
+Updated Blackstripe corydoras
+Updated Tailspot corydoras
+Updated Barred-tail corydoras
+Page not found for False blochi catfish
+Page not found for Ehrhardt's corydoras
+Updated Elegant corydoras
+Updated Horseman's cory
+Page not found for Evelyn's cory
+Page not found for Geoffrey's Corydora
+Updated Skunk corydoras
+Updated Guapore corydoras
+Updated Salt and pepper catfish/corydoras
+Updated Mosaic corydoras, reticulated corydoras
+Updated Dwarf corydoras
+Updated Julii corydoras
+Updated False spotted catfish
+Page not found for Loxozonus cory
+Page not found for Bluespotted corydorasspotted cory
+Page not found for Gold laser cory
+Page not found for Long nosed arched coryLong-nosed Skunk Cory
+Updated Blue corydorasNatterer's Cory
+Updated Peppered corydoras, salt and pepper catfish
+Updated Panda corydoras
+Updated Pastaza corydoras
+Updated Pygmy corydoras
+Updated Rust corydoras
+Updated Mosaic corydoras, reticulated corydoras
+Page not found for Banner-tail corydoras, flagtail corydoras
+Updated Schwartz's catfish
+Updated False network catfish
+Updated Sterba's corydoras
+Updated Sychr's catfish
+Updated Threestripe corydoras, leopard catfish, false julii cory
+Updated Xingu corydoras
+Page not found for Corydoras nain
+Updated Flagtail catfish
+Page not found for Spotted hoplo
+Updated Sailfin corydoras
+Updated Banded corydoras
+Page not found for Bristlenose pleco, bushynose pleco
+Updated Adonis pleco, polka dot lyre-tail pleco
+Updated Gold nugget pleco
+Updated Zebra pleco
+Updated Panaque
+Updated Clown Pleco
+Updated Pineapple pleco, orange cheek pleco
+Updated Sunshine pleco
+Updated Whiptail catfish
+Updated Twig catfish
+Page not found for Golden dwarf sucker, goldenoto
+Updated Zebra dwarf sucker, zebra oto
+Page not found for Bolt catfish
+Updated Gold Zebra catfish
+Updated Zebra shovelnose
+Updated Vulture Catfish, zamurito
+Updated Redtail catfish
+Updated Spotted pimelodus, pictus, pictus catfish
+Updated Sturgeon catfish
+Updated Barred sorubim
+Updated Tiger sorubim
+Updated Firewood catfish, (planiceps) shovelnose catfish
+Page not found for Lima shovelnose catfish
+Page not found for Brichard's syno
+Updated Cuckoo squeaker
+Updated Clown squeaker
+Page not found for Even-spotted squeaker, dwarf lake syno, false cuckoo syno
+Updated Featherfin squeaker
+Updated Malawi squeaker
+Updated Polka dot squeaker, angel squeaker
+Page not found for Orangestriped squeaker, pyjama syno
+Updated Upside-down catfish
+Page not found for Yellow marbled syno, vermiculated syno
+Updated Three-striped African catfish
+Updated Giraffe catfish
+Updated Electric catfish
+Updated Eel catfish
+Updated Black lancer catfish
+Updated Harlequin lancer catfish
+Updated Crystal-eyed catfish
+Updated Shadow catfish
+Updated Dwarf bumblebee catfish
+/Users/volodymyrkovalchuk/KPI/5/startup/startup/venv/lib/python3.12/site-packages/wikipedia/wikipedia.py:389: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 389 of the file /Users/volodymyrkovalchuk/KPI/5/startup/startup/venv/lib/python3.12/site-packages/wikipedia/wikipedia.py. To get rid of this warning, pass the additional argument 'features="html.parser"' to the BeautifulSoup constructor.
+
+  lis = BeautifulSoup(html).find_all('li')
+Disambiguation error for Glass catfish: "Glass catfish" may refer to: 
+African glass catfish
+Parailia somalensis
+Asian glass catfish
+Kryptopterus bicirrhis
+Kryptopterus vitreolus
+Updated Striped glass catfish
+Page not found for Goonch
+Updated Chocolate frogmouth catfish
+Updated Asian banjo catfish
+Updated Walking catfish
+Page not found for Black catfish, Narrowfront tandan
+Updated Stinging catfish
+Updated Sun catfish
+Updated Asian redtail catfish
+Updated Asian upside down catfish
+Updated Asian bumblebee catfish
+Updated Indawgyi stream catfish
+Updated Asian stone catfish
+Updated Iridescent shark
+Updated Chao Phraya giant shark, giant pangasius
+Updated Colombian shark catfish
+Updated Blue whale catfish
+Updated Banjo catfish
+Disambiguation error for Giant raphael catfish: "Raphael catfish" may refer to: 
+Acanthodoras cataphractus
+Acanthodoras cataphractus
+Acanthodoras spinosissimus
+Giant Raphael catfish
+Marbled Raphael catfish
+Agamyxis albomaculatus
+Agamyxis albomaculatus
+Agamyxis pectinifrons
+Striped Raphael catfish
+Updated Ripsaw catfish
+Updated Striped raphael catfish
+Updated Spotted raphael catfish
+Updated Bottlenose catfish
+Updated Gulper catfish
+Updated Midnight catfish
+Updated Oil catfish
+Updated Jaguar catfish
+Updated Pygmy driftwood catfish
+Updated Arowana tetra
+Updated Black phantom tetra
+Updated Black neon tetra
+Updated Black tetra, skirt tetra
+Updated Black morpho tetra
+Updated Bleeding heart tetra
+Updated Bloodfin tetra
+Disambiguation error for Blue tetra: "Blue tetra" may refer to: 
+Boehlkea fredcochui
+Knodus borki
+Mimagoniates microlepis
+Tyttocharax madeirae
+Updated Blueberry tetra
+Updated Bucktooth tetra
+Updated Buenos Aires tetra
+Page not found for Cardinal tetra
+Updated Cave tetra, blind tetra
+Updated Cochu's blue tetra
+Updated Colombian tetra
+Updated Diamond tetra
+Updated Dawn tetra
+Updated Ember tetra
+Updated Emperor tetra
+Updated Flame tetra
+Updated Flame-back Bleeding heart tetra
+Updated Garnet tetra, pretty tetra
+Updated Glass bloodfin tetra
+Updated Glowlight tetra
+Updated Golden pristella tetra
+Updated Green neon tetra
+Updated Head and tail light tetra
+Updated Hummingbird tetra
+Updated January tetra
+Updated Lemon tetra
+Updated Neon tetra
+Updated Ornate tetra
+Updated Penguin tetra, blackline penguinfish
+Updated Peruvian tetra
+Page not found for Rainbow tetra
+Updated Red and Blue Peru tetra
+Updated Red eye tetraLamp eye tetra
+Updated Red-line lizard tetra
+Updated Red phantom tetra
+Page not found for Redflank bloodfin
+Updated Rosy tetra
+Updated Royal tetra
+Updated Ruby tetra
+Updated Rummy-nose tetra
+Updated False rummy-nose tetra
+Updated Splash tetra
+Updated Spotted splashing tetra
+Updated Serpae tetra
+Updated Silvertip tetra
+Updated X-ray tetra
+Updated Yellow phantom tetra
+Updated African moon tetra
+Updated Congo tetra
+Updated Jellybean tetra
+Updated Long-fin tetra
+Updated Niger tetra
+Updated Yellow-tailed Congo tetra
+Updated Common hatchetfish
+Updated Marbled hatchetfish
+Updated Black-winged hatchetfish
+Updated Pygmy hatchetfish
+Updated Golden pencilfish
+Page not found for Hockeystick pencilfish
+Updated Barred pencilfish
+Updated Dwarf pencilfish
+Updated Coral-red pencilfish
+Updated Three-lined pencilfish
+Updated One-lined Pencilfish
+Disambiguation error for Silver dollar: "Silver dollar" may refer to: 
+Spanish dollar
+Dollar coin (United States)
+Dollar (Hong Kong coin)
+Canadian silver dollar
+Silver certificate (United States)
+North American–style pancake
+Silver dollar (fish)
+Silver Dollar, Ontario
+Silver Dollar City
+Sylvestro Carolla
+James Marion West, Jr.
+Silver Dollar (film)
+Teresa Brewer
+Dollar coin
+Eucalyptus cinerea
+Lunaria
+All pages with titles beginning with Silver dollar
+All pages with titles containing Silver dollar
+Updated Schreitmuller's metynnis
+Updated Spotted silver dollar
+Updated Red-bellied pacu
+Updated Red piranha
+Updated Redeye piranha, black piranha
+Updated Wimple piranha
+Updated Disk tetra
+Updated African pike characin
+Updated Goliath tigerfish
+Updated Spotted pike-characin
+Page not found for Hujeta gar
+Page not found for Slender hemiodus
+Page not found for Kissing prochilodus, flagtail Prochilodus
+Updated Marbled headstander
+Updated Banded leporinus
+Disambiguation error for Striped headstander: "Striped headstander" may refer to: 
+Anostomus anostomus
+Abramites hypselonotus
+Updated Siver distichodus
+Updated Six-banded distichodus
+Page not found for Payara
+Updated Pink-tail chalceus
+Updated Red wolf fish
+Updated Red tail barracuda
+Updated Spotted headstander
+Updated Sunshine peacock cichlid
+Page not found for Red shoulder peacock
+Updated Eureka red peacock
+Updated Aulonocara chizumulu
+Updated Pale Usisya aulonocara
+Updated Flavescent peacock
+Updated Spilo
+Updated Red fin hap
+Updated Blue dolphin cichlid, lumphead cichlid
+Updated Afra cichlid, dogtooth cichild
+Updated Malawi eyebiter
+Updated Rusty cichlid, lavender cichild
+Updated Electric yellow cichlid
+Updated Fuelleborn's cichlid, Blue mbuna
+Updated Scrapermouth mbuna
+Page not found for Hongi, Red-top kimpumpa
+Updated Yellow Top Mbamba
+Disambiguation error for Aurora: "furor" may refer to: 
+Furor
+Furor
+Führer
+Fury (disambiguation)
+Updated Cobalt blue cichlid, cobalt zebra cichlid
+Updated Red zebra cichlid
+Updated Kenyi cichlid
+Updated Zebra mbuna
+Updated Auratus cichlid, Malawi golden cichlid
+Page not found for Chipokee cichlid
+Page not found for Blue johanni cichlid, Maingano
+Updated Pearl of Likoma
+Page not found for Fusco
+Updated Livingston's cichlid
+Updated Kaligono
+Page not found for Venustus cichlid, giraffe cichild
+Updated Deep-water hap
+Updated Fenestratus
+Updated Red empress cichlid
+Page not found for Yellow-tail acei
+Updated Bumblebee cichlid, hornet cichlid
+Updated Dwarf Mbuna
+Page not found for Johanni cichlid
+Page not found for Saulosi
+Updated Pindani
+Updated Malawi barracuda
+Updated Electric blue cichlid
+Updated Big-mouth hap
+Updated Calvus
+Updated Compressiceps
+Updated Frontosa cichild
+Updated Frontosa cichild
+Updated Herring cichlid, sardine cichlid
+Page not found for Descamp's strange-tooth cichlid
+Updated Brown julie
+Page not found for Marlier's julie
+Updated Golden julie
+Updated Convict julie
+Updated Masked julie
+Updated Lyretail cichlid, fairy cichlid
+Updated Lemon cichlid
+Updated Five-barred lamprologus
+Updated Featherfin
+Updated Yellow sand cichlid
+Updated Allauad's haplo
+Updated Zebra obliquidens
+Page not found for Flameback
+Updated Hippo Point Salmon
+Updated African butterfly cichlid
+Updated Dwarf Egyptian mouthbrooder
+Updated Guenther's mouthbrooder
+Updated Jewel cichlid, two-spotted jewel cichlid
+Updated Lifalili jewel cichlid, blood-red jewel cichlid
+Page not found for Ocellated kribensis
+Updated Rainbow krib
+Updated Striped kribensis
+Updated Yellow kribensis
+Updated Lionhead cichlid
+Updated Bay snook
+Page not found for Blackbelt cichlid
+Updated Convict cichlid
+Updated Firemouth cichlid
+Updated Jack Dempsey cichlid
+Updated Jaguar cichlid, managuense cichlid
+Updated Mayan cichlid
+Updated Midas cichlid
+Page not found for Nicaraguan cichlid, moga
+Updated Poor man's tropheus
+Updated Rainbow cichlid
+Page not found for Red terror, guayas cichlid
+Updated Salvin's cichlid
+Updated Texas cichlid, Rio Grande cichlid
+Updated T-bar cichlid
+Updated Wolf cichlid
+Page not found for Yellowjacket cichlid
+Page not found for False yellowjacket cichlid
+Updated Blue acara
+Updated Thread-finned acara
+Disambiguation error for Angelfish: "Angelfish" may refer to: 
+Pterophyllum
+Pterophyllum
+Pomacanthidae
+Atlantic pomfret
+Angelshark
+Atlantic spadefish
+Cave angelfish
+Angelfish (band)
+Angelfish (album)
+Mark Twain
+Updated Altum angelfish
+Updated Spotted angelfish
+Updated Chocolate cichlid
+Updated Common discus, red discus
+Updated Blue discus, green discus
+Updated Eartheater cichlid
+Page not found for Demon eartheater
+Updated Threespot eartheater
+Updated Flag cichlid
+Updated Greenstreaked eartheater, cupid cichlid
+Updated Green terror
+Disambiguation error for Oscar: "Oscar" may refer to: 
+Oscar (given name)
+Oscar (footballer, born 1954)
+Oscar (footballer, born 1991)
+Oscar (Irish mythology)
+Oscar, Kentucky
+Oscar, Louisiana
+Oscar, Missouri
+Oscar, Oklahoma
+Oscar, Pennsylvania
+Oscar, Texas
+Oscar, West Virginia
+Oscar Township, Otter Tail County, Minnesota
+Lake Oscar (disambiguation)
+Oscar (bionic cat)
+Oscar (bull)
+Oscar (fish)
+Oscar (therapy cat)
+Beast of Busco
+Unsinkable Sam
+Academy Awards
+The Oscar (film)
+Oscar (1967 film)
+Oscar (1991 film)
+Oscar (opera)
+Oscar (video game)
+Oscar (TV serial)
+OSC OSCar
+ICAO spelling alphabet
+Nakajima Ki-43 Hayabusa
+Oscar-class submarine
+Oscar (paradummy)
+Vought F-8 Crusader
+OSCAR McMaster
+OSCAR protocol
+Open Source Cluster Application Resources
+OSCAR (gene)
+website that provides data on ocean currents
+amateur radio satellites
+OScar
+OScar (Danish automobile)
+MSC Oscar
+a whaling ship sunk off Aberdeen in 1813
+NSW TrainLink H set
+List of storms named Oscar
+Oscar Health
+Out of School Care and Recreation
+OSCAR Radio
+All pages with titles beginning with Oscar
+All pages with titles containing Oscar
+Student Oscars
+King Oscar (disambiguation)
+Veal Oscar
+Oskar (disambiguation)
+Office of the Scottish Charity Regulator
+Updated Butterfly peacock bass
+Updated Orinoco peacock bass
+Updated Speckled peacock bass, speckled pavon
+Updated Pearl cichlid
+Disambiguation error for Severum: "severin" may refer to: 
+Severin (given name)
+Severin (surname)
+Caraș-Severin County
+Severin County
+Drobeta-Turnu Severin
+Severin, Bjelovar-Bilogora County
+Severin na Kupi
+Severin, Germany
+Banate of Severin
+Severin Elektro GmbH
+Severin Training Center
+Severin Films
+Saint Severin (disambiguation)
+Severian (disambiguation)
+Severina (disambiguation)
+Severine (disambiguation)
+Severino
+Søren (given name)
+Severn
+Updated Uaru, waroo
+Updated Zebra Pike Cichlid
+Updated Agassiz's dwarf cichlid
+Updated Umbrella cichlid
+Updated Cockatoo cichlid
+Page not found for Three-striped dwarf ichlid
+Updated Two-striped dwarf cichlid, banded dwarf cichlid
+Updated Keyhole cichlid
+Updated Lyretail checkerboard cichlid, chessboard cichlid
+Updated Zebra acara
+Updated Dwarf flag cichlid
+Updated Blue ram,German ram, 
+ram cichlid
+German blue ram
+Updated Bolivian ram
+Updated Goldeneye cichlid
+Updated Canara pearlspot
+Page not found for Green chromide
+Updated Orange chromide
+Updated Pinstripe damba
+Updated Blood parrot cichlid
+Updated Flowerhorn cichlid
+Updated African banded barb
+Updated African butterfly barb
+Updated Jae barb
+Updated Arulius barb
+Updated Bigspot barb, Duncker's barb
+Updated Black ruby barb
+Updated Cherry barb
+Updated Denison's barb, red line torpedo barb
+Page not found for Drape fin barb
+Page not found for Gold barb
+Updated Golden barb
+Updated Odessa barb
+Updated Melon barb
+Updated Mascara Barb
+Updated Narayan barb
+Updated Rosy barb
+Updated Sawbwa barb
+Updated Tic-tac-toe barb
+Updated Spanner barb, t-barb
+Updated Fiveband barb, pentazona barb
+Page not found for Snakeskin barb
+Updated Checker barb
+Updated Tiger barb, sumatra barb
+Updated Tinfoil barb
+Updated Giant sword minnow
+Updated Hampala barb
+Updated Mad barb
+Page not found for Bala shark
+Page not found for Black shark
+Updated Apollo Shark
+Page not found for Siamese algae eater, fringe barb
+Updated Flying fox (fish)
+Updated Red-tailed black shark
+Updated Rainbow shark
+Updated Cambodian log sucker, false Siamese algae eater
+Updated Jullien's golden carp
+Updated Panda garra
+Updated Chinese algae eater
+Updated Harlequin rasbora
+Updated Glowlight rasbora
+Updated Red-striped rasbora
+Page not found for Chili rasbora
+Updated Dwarf rasbora
+Updated Phoenix rasbora
+Updated Eyespot rasbora
+Updated Brilliant rasbora
+Updated Clown rasbora
+Disambiguation error for Scissortail rasbora: "Scissortail rasbora" may refer to: 
+Dwarf scissortail rasbora
+Gangetic scissortail rasbora
+Greater scissortail
+Three-lined rasbora
+Updated Volcano rasbora
+Updated Blackline rasbora, red-tailed rasbora
+Page not found for Espei rasbora
+Updated Fire rasbora
+Updated Least rasbora
+Updated Pearl danio
+Updated Barred danio
+Updated Celestial Pearl danio
+Updated Emerald dwarf danio
+Page not found for Fireline devario
+Updated Giant danio
+Updated Glowlight danio
+Updated Gold-ring danio
+Updated Malabar danio
+Updated Ocelot danio
+Updated Spotted danio
+Updated Turquoise danio
+Updated Zebra danio
+Updated Goldfish
+Updated Koi, common carp
+Updated White Cloud Mountain minnow
+Page not found for Red shiner
+Updated Rainbow shiner
+Updated Chinese high fin banded shark
+Updated Borneo hillstream loach
+Updated Borneo hillstream loach
+Updated Clown loach
+Updated Green tiger loach
+Updated Fire-eyed loach
+Page not found for Fork-tailed loach
+Updated Horseface loach
+Updated Java loach
+Updated Kuhli loach, coolie loach
+Page not found for Saddle-back Loach
+Updated Dwarf botia
+Updated Bengal loach
+Updated Gangetic loach
+Updated Polka-Dot Loach
+Updated Yoyo loach
+Updated Zebra loach
+Page not found for Redtail loach
+Page not found for Skunk loach
+Page not found for Banded tiger loach
+Page not found for Redfin tiger loach
+Updated Golden zebra loach
+Updated Imperial flower loach
+Updated Butterfly hillstream loach
+Updated Panda loach
+Updated Tiger hillstream loach
+Page not found for Rosy loach
+Page not found for Sumo loach
+Page not found for Zodiac loach
+Updated Weather Loach[55]
+Updated GuppyFancy Guppy
+Updated Endler's livebearer
+Updated Black molly
+Updated Sailfin molly
+Updated Yucatán molly, giant sailfin molly
+Updated Dalmatian molly
+Updated Lyretail Molly
+Updated Southern platy
+Disambiguation error for Variable platy: "Platy" may refer to: 
+Platy (fish)
+Southern platyfish
+Variable platyfish
+Platy, Imathia
+Platy, Lemnos
+peds
+Platys
+Updated Green swordtail
+Updated Montezuma swordtail
+Page not found for Largescale four-eyed fish
+Updated Pike topminnow
+Updated Redtail splitfin
+Updated Cuban lima
+Updated Knife livebearer
+Updated Least killifish
+Updated Metallic livebearer
+Updated Dwarf merry widow
+Updated Tanganyika killifish
+Page not found for Norman's lampeye
+Page not found for Large finned lampeye
+Updated Variable lampeye
+Updated Celebes halfbeak
+Updated Wrestling halfbeak
+Updated Forest halfbeak
+Updated Broken-line killifish
+Updated Gabon killifish
+Updated Gabon jewelfish
+Updated Lyretail panchax
+Updated Red-striped killifish
+Updated Two-striped killifish
+Updated Twostripe lyretail
+Updated Blue lyretail
+Updated Blue gularis
+Updated Clown Killifish, rocket killifish
+Page not found for Redchin panchax
+Page not found for Bluefin Notho, Rachow's Notho, Rainbow Notho
+Updated Redtail notho
+Updated Blue panchax
+Updated Ceylon killifish
+Updated Striped panchax, Golden Wonder
+Page not found for Madagascar panchax
+Page not found for Playfair's panchax
+Updated Powder-blue Panchax
+Updated American flagfish
+Updated Arabian toothcarp
+Updated Argentine pearl
+Updated Lyrefin pearlfish
+Updated Saberfin killie
+Updated Medaka
+Updated Javanese ricefish
+Page not found for Daisy's Ricefish
+Updated Ceylonese combtail
+Page not found for Siamese fighting fish (sometimes Betta, esp. US)
+Page not found for Emerald betta
+Updated Spotfin betta
+Updated Frail gourami
+Updated Black paradisefish
+Page not found for Paradise fish
+Updated Round tail paradisefish
+Updated Ornate paradisefish
+Updated Eyespot gourami
+Page not found for Brown Spike-tailed paradisefish
+Updated Honey gourami
+Updated Dwarf gourami
+Updated Thick-lipped gourami
+Updated Moonlight gourami
+Updated Snakeskin gourami
+Updated Pygmy gourami, Sparkling gourami
+Updated Malay combtail
+Page not found for Scarlet betta
+Updated Crescent betta
+Updated Toba betta
+Updated Giant pikehead
+Updated Peppermint pikehead
+Updated Chocolate gourami
+Updated Crossband chocolate gourami
+Updated Samurai gourami
+Updated Pearl gourami
+Updated Three spot gourami
+Updated Croaking gourami
+Updated Giant gourami
+Updated Kissing gourami
+Disambiguation error for Climbing perch: "Climbing perch" may refer to: 
+Anabantidae
+Anabas testudineus
+Ctenopoma multispine
+Updated Leopard bush fish
+Updated Mottled ctenopoma
+Updated Tailspot ctenopoma
+Updated Ornate ctenopoma
+Updated Blue badis
+Updated Scarlet badis
+Page not found for Black tiger dario
+Updated Bornean leaffish
+Updated Malayan leaffish
+Updated Forest snakehead
+Updated Dwarf snakehead
+Updated Emperor snakehead
+Updated Giant snakehead
+Updated Ocellated snakehead
+Updated Orange-spotted snakehead
+Updated Barca snakehead
+Updated Rainbow snakehead
+Updated African snakehead
+Updated Bleher's rainbowfish
+Updated Red rainbowfish
+Updated Threadfin rainbowfish
+Updated New Guinea rainbowfish
+Updated Boeseman's rainbowfish
+Updated Lake Kurumoi rainbowfish
+Updated Neon rainbowfish
+Updated Lake Wanam rainbowfish
+Page not found for Western rainbowfish
+Updated Duboulayi's rainbowfish
+Page not found for Australian rainbowfish
+Updated Lake Tebera rainbowfish
+Updated Lake Kutubu rainbowfish
+Updated Parkinson's rainbowfish
+Updated Eastern rainbowfish
+Updated Banded rainbowfish
+Updated Celebes rainbow
+Updated Spotted blue-eye
+Updated Red neon blue-eye
+Updated Delicate blue-eye
+Updated Forktail blue-eye
+Updated Neon blue-eye
+Updated Pacific blue-eye
+Updated Madagascar rainbowfish
+Updated Bumblebee goby
+Updated Knight goby
+Updated Barred mudskipper
+Updated Rainbow stiphodon
+Updated Cobalt blue goby
+Updated Bearded worm goby
+Updated Banded mogurnda
+Updated Tropical carp-gudgeon
+Updated Crazy fish
+Updated Marbled goby
+Updated Golden-red stiphodon
+Updated Atlantic mudskipper
+Updated Desert goby
+Updated Dragon goby, Violet goby
+Updated Empire gudgeon
+Page not found for Purple sleeper gudgeon
+Updated Peacock gudgeon, Peacock goby
+Updated Striped sleeper goby
+Updated West African lungfish
+Updated Spotted lungfish
+Updated South American lungfish
+Page not found for Australian lungfish
+Updated Ocellate river stingray
+Updated Black devil stingray
+Updated Marbled whipray
+Updated Gray bichir, Senegal bichir, or dinosaur bichir
+Updated Ornate bichir
+Updated Retropinnis bichir
+Updated Barred bichir
+Updated Saddled bichir
+Page not found for Reedfish
+Updated Sterlet
+Updated Shovelnose Sturgeon
+Page not found for American paddlefish
+Updated Bowfin
+Page not found for Spotted Gar
+Updated Longnose Gar
+Page not found for Florida Gar
+Page not found for Alligator Gar
+Updated Cuban Gar
+Page not found for Tropical Gar
+Updated Blunt-jawed elephantnose
+Updated Peters' elephant nose
+Updated African butterflyfish
+Updated Aba aba
+Updated Reticulated knifefish
+Updated African brown knifefish
+Updated Royal knifefish
+Updated Clown knifefish
+Updated Asian arowana
+Updated Gulf saratoga
+Updated Southern saratoga
+Updated Silver arowana
+Updated Black arowana
+Updated Pirarucu
+Updated African arowana
+Updated Freshwater moray
+Updated Hingemouth
+Updated Black ghost knifefish
+Updated Brown ghost knifefish
+Updated Glass knifefish
+Page not found for Electric eel
+Page not found for Northern pike
+Updated Humphead glassfish
+Page not found for Indian glassy fish
+Page not found for GlassfishGlass perch
+Updated Mouth almighty
+Updated Amazon leaffish
+Page not found for African leaffish
+Page not found for Nile perch
+Updated Indonesian tigerfish
+Updated Silver tigerfish
+Updated New Guinea tigerfish
+Updated Banded archerfish
+Updated Seven-spot archerfish
+Updated Spotted scat
+Disambiguation error for African scat: "Scat" may refer to: 
+School and College Ability Test
+Shrewsbury College of Arts & Technology
+Somerset College of Arts and Technology
+Skat (card game)
+Thirty-One
+Scat (cards)
+S.C.A.T.: Special Cybernetic Attack Team
+Scat singing
+Scat Records
+Scatman John
+Scatman Crothers
+SCAT Airlines
+SCAT (automobile)
+Sarasota County Area Transit
+Seoul Station City Airport Terminal
+South Coast Area Transit
+South Pacific Combat Air Transport Command
+Space Coast Area Transit
+ Suffolk County Transit
+Sydney Coordinated Adaptive Traffic System
+feces, particularly of wild carnivores
+Scatophilia
+Scanning Acoustic Tomography
+Somerville, Massachusetts
+BJ and the Bear
+Scat (novel)
+Social Change Assistance Trust
+IBM 700/7000 series
+All pages with titles containing Scat
+Skat (disambiguation)
+Updated Striped scat, spotbanded scat
+Page not found for Silver moony
+Updated African moony
+Updated Freshwater pipefish
+Updated African freshwater pipefish
+Updated Zebra blenny
+Updated Fire eel
+Updated Tire track eel
+Updated Peacock eel
+Updated Zebra spiny eel
+Updated Half-banded spiny eel
+Updated Lesser spiny eel
+Updated Freshwater needlefish
+Page not found for Grunting toadfish
+Updated Leaf goblinfish
+Page not found for Freshwater sole
+Page not found for Golden puffer
+Disambiguation error for Green spotted puffer: "Green spotted puffer" may refer to: 
+Dichotomyctere fluviatilis
+Dichotomyctere nigroviridis
+Dichotomyctere sabahensis
+Updated Figure 8 pufferfish
+Updated Humpback Puffer
+Updated Red-tail dwarf puffer
+Updated Arrowhead puffer
+Page not found for Hairy pufferfish
+Updated Dwarf pufferfish
+Updated Fahaka puffer
+Updated Mbu puffer
+Updated Congo pufferfish
+Updated Amazon puffer
+Updated Everglades pygmy sunfish
+Updated Blackbanded sunfish
+Updated Rainbow darter
+>>> from fishapp.scripts import update_fish_datapdate_fish_data()
+  File "<console>", line 1
+    from fishapp.scripts import update_fish_datapdate_fish_data()
+                                                               ^
+SyntaxError: invalid syntax
+>>> update_fish_data()
+Updated Brown-Point Shield Skin
+Page not found for Aspidoras Cory-CatPygmy Aspidoras
+Updated Sixray corydoras, false corydoras
+Updated Loach catfish
+Updated Britski's catfish
+Updated Hognosed brochis
+Updated Emerald catfish
+Updated Cascarudo
+Updated Blacktop corydoras
+Updated Adolfo's catfish/corydoras
+Updated Bronze corydoras, Emerald green cory
+Updated Agassiz's corydoras
+Updated Spotted corydoras, longnose corydoras
+Updated CarachaFairy Cory
+Updated Pink corydorasAxelrod's Cory
+Updated Masked corydoras,bandit corydoras
+Updated Blackstripe corydoras
+Updated Tailspot corydoras
+Updated Barred-tail corydoras
+Page not found for False blochi catfish
+Page not found for Ehrhardt's corydoras
+Updated Elegant corydoras
+Updated Horseman's cory
+Page not found for Evelyn's cory
+Page not found for Geoffrey's Corydora
+Updated Skunk corydoras
+Updated Guapore corydoras
+Updated Salt and pepper catfish/corydoras
+Updated Mosaic corydoras, reticulated corydoras
+Updated Dwarf corydoras
+Updated Julii corydoras
+Updated False spotted catfish
+Page not found for Loxozonus cory
+Page not found for Bluespotted corydorasspotted cory
+Page not found for Gold laser cory
+Page not found for Long nosed arched coryLong-nosed Skunk Cory
+Updated Blue corydorasNatterer's Cory
+Updated Peppered corydoras, salt and pepper catfish
+Updated Panda corydoras
+Updated Pastaza corydoras
+Updated Pygmy corydoras
+Updated Rust corydoras
+Updated Mosaic corydoras, reticulated corydor

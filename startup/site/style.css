@@ -1,0 +1,125 @@
+/* Загальний стиль для body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Стиль для секцій */
+section {
+    padding: 40px 0;
+}
+
+/* Контейнер для основного контенту */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Стиль для блоку, який містить заголовок та опис */
+.block {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+/* Стиль для заголовка h1 */
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Стиль для параграфу в блоках */
+p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Стиль для картинок */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.cap .container .block {
+    flex-direction: row;
+}
+
+.cap .container .block article {
+    max-width: 50%;
+}
+
+.type-fish .container .block {
+    justify-content: center;
+}
+
+
+/* Стиль для другого секції "Види риб" */
+.type-fish .container .block h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Обгортач для списку риб */
+.type-fish .container .block .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Стиль для списку */
+.type-fish .container .block .wrapper ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Стиль для кожного елемента списку */
+.type-fish .container .block .wrapper ul li {
+    width: 20%; /* Для 3 колонок з відступами */
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+/* При наведенні на елемент списку */
+.type-fish .container .block .wrapper ul li:hover {
+    transform: scale(1.05);
+}
+
+/* Стиль для заголовків карток */
+.type-fish .container .block .wrapper ul li article h3 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Стиль для опису риби в картці */
+.type-fish .container .block .wrapper ul li article p {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.4;
+}
+
+
+/* Медиа-запити для адаптивності */
+
+/* Для екранів менше ніж 768px (мобільні пристрої) */
